@@ -16,3 +16,5 @@ const JobComponent = ({job}) => {
     )
 }
 export default JobComponent
+
+//oru component la certain block of code thirumbi thirumbi render achinaathu  whole component oda performance ah korachidum as rerender aarapo full code um aagum rerender so antha block of code ah nama Inga potrukom.
